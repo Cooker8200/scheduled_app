@@ -1,0 +1,6 @@
+c:\users\jennifer\desktop\schedulingtest\schedulingtest\bin\Debug\schedulingtest.exe.config
+c:\users\jennifer\desktop\schedulingtest\schedulingtest\bin\Debug\schedulingtest.exe
+c:\users\jennifer\desktop\schedulingtest\schedulingtest\bin\Debug\schedulingtest.pdb
+c:\users\jennifer\desktop\schedulingtest\schedulingtest\obj\Debug\schedulingtest.csprojResolveAssemblyReference.cache
+c:\users\jennifer\desktop\schedulingtest\schedulingtest\obj\Debug\schedulingtest.exe
+c:\users\jennifer\desktop\schedulingtest\schedulingtest\obj\Debug\schedulingtest.pdb
